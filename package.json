@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.1.0",
   "type": "module",
-  "description": "Local-first rack and patch-panel label extractor using browser text detection when available.",
+  "description": "MVP local para extrair etiquetas de racks, ODFs e patch panels usando recursos do navegador e fallback sintetico.",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
